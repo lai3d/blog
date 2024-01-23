@@ -5,3 +5,10 @@ draft = true
 +++
 ## Second Post
 
+https://gohugo.io/getting-started/quick-start/
+
+### Add content
+
+```bash
+hugo new content posts/second-post.md
+```
